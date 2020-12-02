@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Teresa Whitmore
+2. Student ID: 2381847
+3. Email: twhitmore@chapman.edu
+4. Class: CPSC 298
 5. Assignment: numbers 
 
 ## Application Purpose
